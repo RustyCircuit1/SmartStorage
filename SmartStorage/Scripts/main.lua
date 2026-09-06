@@ -1,7 +1,7 @@
 -- SmartStorage
 -- Extends storage behavior in Windrose using UE4SS.
 
-local VERSION = '0.9.95'
+local VERSION = '1.0'
 
 -----------------------------------------------------------------------
 -- Resolves the directory containing this script.
